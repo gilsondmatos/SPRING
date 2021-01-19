@@ -1,0 +1,5 @@
+package org.blogpessoal.blogpessoal.controller;
+
+public class PostagemController {
+
+}

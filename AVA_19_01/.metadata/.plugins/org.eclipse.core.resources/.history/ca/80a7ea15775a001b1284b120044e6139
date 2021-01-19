@@ -1,0 +1,5 @@
+package org.blogpessoal.blogpessoal.model;
+
+public @interface Size {
+
+}
