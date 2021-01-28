@@ -19,7 +19,7 @@ import br.com.farmaecia.farmacia.model.Produto;
 import br.com.farmaecia.farmacia.repository.ProdutoRepository;
 
 @RestController
-@RequestMapping("produtos")
+@RequestMapping("/produtos")
 @CrossOrigin("*")
 public class ProdutoController {
 	
