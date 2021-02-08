@@ -1,0 +1,13 @@
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\controller\UsuarioController.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\Repository\UsuarioRepository.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\model\UserLogin.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\model\Postagem.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\controller\PostagemController.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\seguranca\BasicSecurityConfig.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\seguranca\UserDetailsImpl.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\Repository\PostagemRepository.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\BlogpessoalApplication.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\model\Usuario.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\services\UsuarioServices.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\seguranca\UserDetailsServiceImpl.java
+G:\BANCO DE DADOS\Atividades\SPRING\SPRING\AVA_19_01\blogpessoal\src\main\java\org\blogpessoal\blogpessoal\seguranca\swagger\SwaggerConfigurations.java
